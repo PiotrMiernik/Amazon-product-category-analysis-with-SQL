@@ -5,6 +5,10 @@ This project presents an analysis of data on sports, fitness, and outdoor produc
 Data Description
 The data used in the analysis comes from Kaggle and includes information on 734 products. The dataset initially contained the following columns:
 product_name
+main_category
+sub_category
+image
+link
 rating
 no_of_ratings
 discount_price

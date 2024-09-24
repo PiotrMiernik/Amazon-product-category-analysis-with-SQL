@@ -25,7 +25,7 @@ The data analysis was conducted in SQL, using the PostgreSQL database. Descripti
 Technologies
 Query language: SQL
 Database: PostgreSQL
-Data visualization: Tableau Public (dashboard available at: https://public.tableau.com/app/profile/piotr.miernik/viz/Book1_17141432705880/SportsproductsatAmazonin)
+Data visualization: Tableau Public (dashboard available at: [https://public.tableau.com/app/profile/piotr.miernik/viz/Book1_17141432705880/SportsproductsatAmazonin)](https://public.tableau.com/app/profile/piotr.miernik/viz/AmazonSportsandOutdoorsProductsAnalysis/AmazonSportsandOutdoors)
 Additional Notes
 
 Potential Directions for Further Development
